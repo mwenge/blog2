@@ -8,6 +8,24 @@
  */
 
 
+@font-face {
+  font-family: 'Eurostile';
+  font-style: normal;
+  font-weight: 400;
+  src: url(Eurostile.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Novarese';
+  font-style: normal;
+  font-weight: 400;
+  src: url(Novarese.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Ricardo';
+  font-style: normal;
+  font-weight: 400;
+  src: url(RicardoALT-Medium.ttf) format('truetype');
+}
 
 
 
